@@ -1,0 +1,8 @@
+C:\Users\domi2\Desktop\practicaS9\practicaS9\obj\Debug\practicaS9.csproj.AssemblyReference.cache
+C:\Users\domi2\Desktop\practicaS9\practicaS9\obj\Debug\practicaS9.csproj.SuggestedBindingRedirects.cache
+C:\Users\domi2\Desktop\practicaS9\practicaS9\obj\Debug\practicaS9.csproj.CoreCompileInputs.cache
+C:\Users\domi2\Desktop\practicaS9\practicaS9\bin\Debug\practicaS9.exe.config
+C:\Users\domi2\Desktop\practicaS9\practicaS9\bin\Debug\practicaS9.exe
+C:\Users\domi2\Desktop\practicaS9\practicaS9\bin\Debug\practicaS9.pdb
+C:\Users\domi2\Desktop\practicaS9\practicaS9\obj\Debug\practicaS9.exe
+C:\Users\domi2\Desktop\practicaS9\practicaS9\obj\Debug\practicaS9.pdb
